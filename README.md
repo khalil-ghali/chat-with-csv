@@ -1,6 +1,6 @@
 # chat-with-csv
 
-![Chat-with-CSV Chatbot](app-screenshot.png)
+
 
 The CSV Chatbot is a cutting-edge tool that empowers you to interact with your CSV (Comma-Separated Values) data using the power of conversational agents and large language models. Seamlessly bridging the gap between data exploration and human interaction, this tool transforms the way you engage with your tabular data.
 
