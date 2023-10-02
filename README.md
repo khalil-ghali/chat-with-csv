@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 
 - Python (3.9+ recommended)
 - [Git](https://git-scm.com/)
-- OpenAI API key (only required for the advanced version)
+- OpenAI API key 
 
 ## Installation
 
@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
     ```
 ## How to Get Started
   1. Upload your csv.
-  2. Enter your API key.(Only if you chose the premium version. Key is not needed in the free version)
+  2. Enter your API key.
   3. Ask questions using everyday life language.
   4. Get detailed, AI-generated answers about your own data. Isn´t that amazing :)
   5. Enjoy a smarter way to read CSVs!   
